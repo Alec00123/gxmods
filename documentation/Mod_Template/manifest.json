@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "My custom mod",
+    "description": "Idk",
+    "developer": Alec00123
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Alec00123"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "002": "IMG_002.jpg"
     },
     "manifest_version": 3,
     "mod":
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
+                "music/Elegy - Asher Fulero.mp3",
                 "music/track_2.mp3",
                 "music/track_3.mp3",
                 "music/track_4.mp3"
@@ -133,15 +133,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 262,
+                        "s": 67,
+                        "l": 50
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 294,
+                        "s": 67,
+                        "l": 50
                     }
                 },
                 "light":
@@ -164,14 +164,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/IMG_001.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
                     "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "first_frame": "wallpaper/GIF_001.gif",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
